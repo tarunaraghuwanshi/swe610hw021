@@ -1,0 +1,2 @@
+module HosHelper
+end
